@@ -1,4 +1,4 @@
-public class backtracking {
+public class nQueenproblem {
 
     //Nqueens problem solution
 
